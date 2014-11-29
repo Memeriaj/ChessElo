@@ -6,7 +6,8 @@
   "dependencies": {
     "express": "4.x.x",
     "bower": "1.x.x",
-    "gulp": "3.x.x"
+    "gulp": "3.x.x",
+    "del": "0.x.x"
   },
   "engine": "node >= 0.10.1"
 }
